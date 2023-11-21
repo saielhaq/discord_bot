@@ -1,0 +1,25 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "Discord Bot made by Saad SAI EL HAQ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Saad SAI EL HAQ",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.63",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0"
+  }
+}
